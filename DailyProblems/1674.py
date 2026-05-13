@@ -21,7 +21,7 @@ class Solution:
             # zero move at exact sum
             diff[pair_sum] -= 1
             diff[pair_sum + 1] += 1
-
+    
         ans = float('inf')
         current = 0
 

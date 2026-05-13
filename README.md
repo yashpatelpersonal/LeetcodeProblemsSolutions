@@ -12,6 +12,10 @@ Project Stucture:
                 Problem 347 :
                             Leetcode problem 347 : Top Frequent K  
 
+Sliding Window 
+        Problem 121 : 
+                        Leetcode problem121 : Max profit from Array 
 
 Daily Problems.
         1665 : Leetcode 1665
+        1674 : Leetcode 1674 
