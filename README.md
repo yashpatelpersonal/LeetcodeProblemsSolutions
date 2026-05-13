@@ -1,5 +1,5 @@
 #LeetCode  
-Project Stucture : 
+Project Stucture: 
     Array & Hashing 
                 Problem 1 : 
                             Leetcode problem 1 :
@@ -11,3 +11,7 @@ Project Stucture :
                             Leetcode problem 238 : productExceptSelf
                 Problem 347 :
                             Leetcode problem 347 : Top Frequent K  
+
+
+Daily Problems.
+        1665 : Leetcode 1665
