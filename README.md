@@ -18,7 +18,10 @@ Sliding Window
         Problem 123 :
                         Leetcode Problem123 : Max profile including 2 transections  
         Problem 3 : 
-                    Leetcode problem 3 : Longest Substring 
+                    Leetcode problem 3 : Longest Substring
+        Problem 7 : 
+                    Leetcode Problem 7 : Reverse String  
+
 Daily Problems.
         1665 : Leetcode 1665
         1674 : Leetcode 1674 
