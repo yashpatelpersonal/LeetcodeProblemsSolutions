@@ -3,12 +3,12 @@ class Solution:
         char_ch=set()
         left=0
         max_le=0
-        for i in range(len(s)):
-            while s[i] in char_ch:
+        for r in range(len(s)):
+            while s[r] in char_ch:
                 char_ch.remove(s[left])
                 left+=1
-            char_ch.add(s[i])
-            max_le=max(max_le,i-left+1)
+            char_ch.add(s[r])
+            max_le=max(max_le,r-left+1)
         return max_le
 
 
