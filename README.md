@@ -10,7 +10,9 @@ Project Stucture:
                 Problem 238 :
                             Leetcode problem 238 : productExceptSelf
                 Problem 347 :
-                            Leetcode problem 347 : Top Frequent K  
+                            Leetcode problem 347 : Top Frequent K
+                Leetcode 26 :
+                            Leetcode problem 26 :Remove duplicate form list
 
 Sliding Window 
         Problem 121 : 
@@ -25,3 +27,5 @@ Sliding Window
 Daily Problems.
         1665 : Leetcode 1665
         1674 : Leetcode 1674 
+
+
