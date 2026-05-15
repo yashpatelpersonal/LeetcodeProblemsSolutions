@@ -53,7 +53,7 @@ class Solution:
             need = max(minimum, need + actual)
         return need
 
-if __name__ == '__main__':
-    s= Solution()
-    res=s.minimumEffort(tasks=[[1,7],[2,8],[3,9],[4,10],[5,11],[6,12]])
-    print(res)
+# if __name__ == '__main__':
+#     s= Solution()
+#     res=s.minimumEffort(tasks=[[1,7],[2,8],[3,9],[4,10],[5,11],[6,12]])
+#     print(res)

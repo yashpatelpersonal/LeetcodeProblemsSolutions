@@ -13,7 +13,7 @@ class Solution:
         return min_
 
 
-if __name__ == '__main__':
-    s= Solution()
-    min_=s.findMin(nums=[3,4,5,1,2])
-    print(min_)
+# if __name__ == '__main__':
+#     s= Solution()
+#     min_=s.findMin(nums=[3,4,5,1,2])
+#     print(min_)
