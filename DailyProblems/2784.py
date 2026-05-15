@@ -10,7 +10,7 @@ class Solution:
 
 
 
-if __name__ == '__main__':
-    s= Solution ()
-    ans_=s.isGood(nums=([1,2,3,3,4]))
-    print("Permutation of array ",ans_)
+# if __name__ == '__main__':
+#     s= Solution ()
+#     ans_=s.isGood(nums=([1,2,3,3,4]))
+#     print("Permutation of array ",ans_)
