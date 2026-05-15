@@ -5,7 +5,7 @@ class Solution:
         if s == t: return t
         count_t,win_t={},{}
         for i in t:
-            count_t[i] = 1 + count_t.get(t,0)
+            count_t[i] = 1 + count_t.get(i,0)
         have, need = 0, len(count_t)
         res , res_l =[-1,-1], float("infinity")
         r= 0
@@ -25,9 +25,6 @@ class Solution:
         r,l=res
         # print(r,l)
         return s[r:l+1] if res_l != float('infinity') else ""
-
-
-
 
 
 
