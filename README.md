@@ -27,6 +27,9 @@ Sliding Window
                     Leetcode Problem 7 : Reverse String  
         Problem 425:
                     Leetcode Problem 425 : Replace character 
+        Problem 56 : 
+                    Leetcode 56 : Merge Intervals  
+
 
 
 Daily Problems.
