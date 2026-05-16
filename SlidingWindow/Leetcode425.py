@@ -8,7 +8,6 @@ class Solution:
         for r in range(len(s)):
             s_d[s[r]]=1+s_d.get(s[r],0)
             max_f=max(max_f,s_d[s[r]])
-
             while ( r - l + 1)-max_f > k :
                 s_d[s[l]] -= 1
                 l += 1
