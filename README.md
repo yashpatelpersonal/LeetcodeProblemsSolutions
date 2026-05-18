@@ -31,10 +31,12 @@ Sliding Window
                     Leetcode 56 : Merge Intervals  
 
 Two Pointers : 
-            151: Reverse String with white space 
+            151: Reverse String with white space
+            125: Valid Palindrom 
 
 Daily Problems.
         1665 : Leetcode 1665
         1674 : Leetcode 1674 
         2784 : Leetcode 2784 
                
+    
