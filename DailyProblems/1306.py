@@ -10,5 +10,6 @@ class Solution:
         left= self.rec(arr,i - arr[i] )
         right = self.rec(arr,i + arr[i])
         return left or right
+
     def canReach(self, arr: List[int], start: int) -> bool:
         return self.rec(arr,start)
