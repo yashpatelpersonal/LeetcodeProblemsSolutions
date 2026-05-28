@@ -14,7 +14,9 @@ Project Stucture:
                 Leetcode 26 :
                             Leetcode problem 26 :Remove duplicate form list
                 Leetcode 23 : 
-                            Leetcode problem 23 : 
+                            Leetcode problem 23 :
+                Leetcode 27 : 
+                Leetcode 9: Palindrome Number
 
 Sliding Window 
         Problem 121 : 
