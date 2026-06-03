@@ -42,5 +42,7 @@ Daily Problems.
         2784 : Leetcode 2784 
         1306 : Jump Game 3  
         1345 : Jump Game 4 
-        
+        3300 : list sum minimum value  
+        3635 : Earliest Finish time for land and water ride 2 
+
     
