@@ -44,5 +44,5 @@ Daily Problems.
         1345 : Jump Game 4 
         3300 : list sum minimum value  
         3635 : Earliest Finish time for land and water ride 2 
-
+        3751 : Total Waviness of Numbers in Range I 
     
