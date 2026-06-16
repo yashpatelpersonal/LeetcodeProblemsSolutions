@@ -47,3 +47,4 @@ Daily Problems.
         3751 : Total Waviness of Numbers in Range I 
         2574 : Left and right sum Differences
         3612 : Process String with Special Operations I
+        2095 : Delete the Middle Node of a Linked List
