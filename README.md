@@ -46,3 +46,4 @@ Daily Problems.
         3635 : Earliest Finish time for land and water ride 2 
         3751 : Total Waviness of Numbers in Range I 
         2574 : Left and right sum Differences
+        3612 : Process String with Special Operations I
