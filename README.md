@@ -50,3 +50,6 @@ Daily Problems.
         2095 : Delete the Middle Node of a Linked List
         1344 : Angle Between Hands of a Clock 
         2130 : Maximum Twin sum of linkList 
+        1833 : Maximum ice cream bar 
+        1840 : maximum building Height
+
