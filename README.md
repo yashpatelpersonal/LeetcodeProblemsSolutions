@@ -52,4 +52,6 @@ Daily Problems.
         2130 : Maximum Twin sum of linkList 
         1833 : Maximum ice cream bar 
         1840 : maximum building Height
+        1189 : Maximum number of Ballons
+
 
