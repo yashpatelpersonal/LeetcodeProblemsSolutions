@@ -53,5 +53,5 @@ Daily Problems.
         1833 : Maximum ice cream bar 
         1840 : maximum building Height
         1189 : Maximum number of Ballons
-
+        3699 : Numbers of Zigzag arrays I 
 
