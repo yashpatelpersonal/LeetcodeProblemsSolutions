@@ -54,4 +54,6 @@ Daily Problems.
         1840 : maximum building Height
         1189 : Maximum number of Ballons
         3699 : Numbers of Zigzag arrays I 
+        2812: Find the safest Path in a grid 
+
 
