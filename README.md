@@ -56,6 +56,6 @@ Daily Problems.
         3699 : Numbers of Zigzag arrays I 
         2812: Find the safest Path in a grid 
         1331 : Rank Transform an array
-
+        2685: Count the numbers of complete Components 
 
 
